@@ -27,7 +27,7 @@ A quick-reference guide with essential physics formulas for students, engineers,
 ---
 
 ## 🌐 **Live Page**  
-Access the project [here](https://raimonvibe.github.io/physics_formulas/) and dive into the world of physics equations.  
+Access the project [here](https://physics-formulas-blue.vercel.app/) and dive into the world of physics equations.
 
 ---
 
