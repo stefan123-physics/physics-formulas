@@ -1,0 +1,15 @@
+{
+  "name": "Flashy LaTeX Flashcards",
+  "short_name": "Flashcards",
+  "description": "Learn physics formulas, one flip at a time.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#B1DDC6",
+  "theme_color": "#B1DDC6",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
